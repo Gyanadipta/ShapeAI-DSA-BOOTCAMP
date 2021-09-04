@@ -1,4 +1,5 @@
-//leap year
+//Q3. Write a program to check whether a year entered by a user is Leap year or not.
+
 #include <iostream>
 using namespace std;
 
